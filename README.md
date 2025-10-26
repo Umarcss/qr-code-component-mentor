@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - **Solution URL**: [View on Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-component-with-css-custom-properties-and-responsive-design)
 - **Live Site URL**: [View Live Demo](https://your-live-site-url.com)
-- **Repository**: [GitHub Repository](https://github.com/yourusername/qr-code-component)
+- **Repository**: [GitHub Repository](https://github.com/Umarcss/qr-code-component-mentor)
 
 ## 📱 Project Details
 
@@ -219,11 +219,8 @@ Areas I want to continue focusing on in future projects:
 
 ## 👨‍💻 Author
 
-- **Portfolio Website** - [Your Portfolio](https://www.your-portfolio.com)
-- **Frontend Mentor** - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- **GitHub** - [@yourusername](https://github.com/yourusername)
-- **Twitter** - [@yourusername](https://www.twitter.com/yourusername)
-- **LinkedIn** - [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- **Frontend Mentor** - [@Umarcss](https://www.frontendmentor.io/profile/Umarcss)
+- **GitHub** - [@Umarcss](https://github.com/Umarcss)
 
 ## 🙏 Acknowledgments
 
